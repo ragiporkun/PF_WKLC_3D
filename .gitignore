@@ -1,0 +1,21 @@
+# Python / conda
+__pycache__/
+*.pyc
+.conda/
+env/
+venv/
+
+# Build / output
+build/
+dist/
+*.o
+*.obj
+
+# Large 3D / data files (adjust to your project)
+*.stl
+*.obj
+*.ply
+*.vtk
+*.h5
+output/
+cache/
