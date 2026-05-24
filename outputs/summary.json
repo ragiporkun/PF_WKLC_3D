@@ -1,0 +1,17 @@
+{
+  "J_index": 67.66186134134777,
+  "M_index": 0.037976147258075854,
+  "peak_mrd": {
+    "100": 3.0471805631153197,
+    "110": 2.517517405783553,
+    "111": 2.6343029499148134
+  },
+  "grain_threshold_deg": 5.0,
+  "n_grains": 912,
+  "median_grain_voxels": 8.0,
+  "median_aspect_ratio": 79056.94150420949,
+  "n_solid_voxels": 623389,
+  "neighbour_edges": 1838806,
+  "frac_raw_gt_5deg": 0.07759219841571106,
+  "frac_diso_gt_5deg": 0.07759219841571106
+}
